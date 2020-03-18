@@ -28,7 +28,9 @@ class Directory extends React.Component {
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          // imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          // imageUrl: 'https://cdn.shopify.com/s/files/1/0301/7405/files/RXSC-1166_2048x2048.jpg?v=1564752605',
+          imageUrl: 'https://cdn.shopify.com/s/files/1/0301/7405/files/RXSC-1166_2048x2048.jpg?v=1564752605',
           size: 'large',
           id: 4,
           linkUrl: 'shop/womens'
