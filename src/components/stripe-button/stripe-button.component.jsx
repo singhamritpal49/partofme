@@ -17,7 +17,7 @@ const StripeCheckoutButton = ({price}) => {
         name='PARTOFME COMPANY & CO'
         billingAddress
         shippingAddress
-        image='https://sendeyo.com/up/d/f3eb2117da'
+        image='https://lh5.googleusercontent.com/SYwR0ZyCBafvfQlci5D_sotDCI3dMylytoScgOuVtNNlXzL1uR8lWQUnqqsZ4BgKS9JAxCqB5gvgWg=w1920-h978'
         description={`Your total is $${price}`}
         amount={priceForStripe}
         panelLabel='Pay Now'

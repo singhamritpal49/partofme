@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # Firebase API Keys
-src/firebase/firebase.utils.js
+# src/firebase/firebase.utils.js
