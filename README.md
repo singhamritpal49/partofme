@@ -2,7 +2,7 @@
 ## PartofMe
 
 An ecommerce web application that allows users to purchase items 
-Live at https://partofme-live.herokuapp.com/
+-> Live at https://partofme-live.herokuapp.com/
 
 ### Features
 + Developed a single page application with React and SCSS
